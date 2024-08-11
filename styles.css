@@ -1,0 +1,106 @@
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.25rem;
+    color: black;
+    padding: 10px 20px;
+}
+
+.nav-link.active {
+    color: #b62285;
+}
+
+header {
+   
+    color: white;
+}
+
+header .smallPart {
+    background: linear-gradient(to right, #4e54c8, #b62285);
+    color: #ffffff;
+    font-size: 1.25rem;
+    padding: 10px 20px;
+}
+
+header .fs-3 {
+    font-size: 2rem;
+    color: #6c757d;
+}
+
+header .display-3 {
+    font-size: 5rem;
+    font-weight: bold;
+    width: 100%;
+}
+
+header h1 {
+    background: linear-gradient(89.97deg, #c834f5 1.84%, #2724d4 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+header .btn-primary {
+    background-color: #4e54c8;
+    border: none;
+    font-size: 1.5rem;
+    margin-right: 10px;
+}
+
+header .btn-outline-dark {
+    border-color: black;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.profile {
+    position: relative;
+    max-width: 450px;
+    margin: 40px auto;
+    background: linear-gradient(to right, #4e54c8, #b62285);
+}
+
+.profile-img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+
+
+
+footer {
+    color: #6c757d;
+    padding: 30px 0;
+}
+
+footer p {
+    font-size: 1.25rem;
+}
+.aboutMeSection{
+    background-color: #e2e8ec;
+}
+.aboutMeSection h2 {
+    background: linear-gradient(89.97deg, #fa67e6 1.84%, #2724d4 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 100px;
+}
+
+.socialIcons a {
+    font-size: 2rem;
+    background: linear-gradient(89.97deg, #d867fa 1.84%, #2724d4 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 0 10px;
+}
