@@ -24,7 +24,7 @@ header {
     color: white;
 }
 
-header .smallPart {
+header .badge {
     background: linear-gradient(to right, #4e54c8, #b62285);
     color: #ffffff;
     font-size: 1.25rem;
